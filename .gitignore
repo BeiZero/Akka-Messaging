@@ -1,6 +1,13 @@
 *.class
 *.log
 
+.idea/
+.projectFilesBackup/
+
+*.ipr
+*.iws
+*.iml
+
 # sbt specific
 .cache
 .history
